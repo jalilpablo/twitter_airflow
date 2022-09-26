@@ -1,4 +1,3 @@
-from turtle import Screen
 import tweepy
 import pandas as pd
 import json
